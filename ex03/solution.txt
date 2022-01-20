@@ -1,0 +1,9 @@
+No 1:
+
+Cookie auf adminseite holen, base64 decoden, user zu admin ändern, encoden, bearbeiten, dann auf Seite einloggen
+
+No 3:
+
+Passwort ist Ergebnis von Hashfunktion auf Username in Javascript. HTML Code auf lokal kopieren, 
+ausführen (JQuery hinzufügen damit JS läuft), dann in Chrome öffnen, noch 
+console.log hinzufügen um das Passwort zu bekommen, einloggen.
